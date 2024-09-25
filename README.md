@@ -69,6 +69,7 @@ Este proyecto permite convertir videos de la carpeta "videos" al formato `.webm`
    [Cómo instalar FFmpeg](https://www.youtube.com/watch?v=0zN9oZ98ZgE)
 
 6. **Convertir los videos**:  
+   - Borrar los videos de la carpeta `videos` y de la carpeta `videos_convertidos`.
    - Coloca todos los videos que quieras convertir en la carpeta `videos`.
    - Para correr el programa, abre el archivo `principal.py` y ejecuta el código utilizando el botón de "Play" que se encuentra arriba a la derecha en VSCode.
    - En la carpeta `videos_convertidos` encontrarás todos los videos convertidos en formato `.webm`.
